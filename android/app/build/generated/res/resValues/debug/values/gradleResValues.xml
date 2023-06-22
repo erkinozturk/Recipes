@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Value from default config. -->
+    <integer name="react_native_dev_server_port">8081</integer>
+    <!-- Value from default config. -->
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <!-- Value from default config. -->
+    <string name="API_URL_CATEGORY" translatable="false">"https://www.themealdb.com/api/json/v1/1/categories.php"</string>
+    <!-- Value from default config. -->
+    <string name="API_URL_DETAIL" translatable="false">"https://www.themealdb.com/api/json/v1/1/lookup.php?i="</string>
+    <!-- Value from default config. -->
+    <string name="API_URL_MEAL" translatable="false">"https://themealdb.com/api/json/v1/1/filter.php?c="</string>
+    <!-- Value from default config. -->
+    <string name="build_config_package" translatable="false">com.tarifler</string>
+
+</resources>
